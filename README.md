@@ -13,7 +13,7 @@ StockVision is a Full-Stack Machine Learning web application that predicts stock
 ## 🚀 Live Demo
 
 ### Frontend
-[> *(Add your frontend deployment link here)*](https://stockvision-8b0r.onrender.com)
+(https://stockvision-8b0r.onrender.com)
 
 ### Backend API
 https://stock-market-ywnw.onrender.com
